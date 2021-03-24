@@ -1,0 +1,10 @@
+original bandwidth: 8
+Reverse Cuthill-McKee ordering starting at: 6
+  7 3 5 9 8 4 1 0 2 6 
+  bandwidth: 4
+Reverse Cuthill-McKee ordering starting at: 0
+  5 4 9 3 7 2 1 8 6 0 
+  bandwidth: 5
+Reverse Cuthill-McKee ordering:
+  6 0 7 1 9 2 8 4 3 5 
+  bandwidth: 5
